@@ -2,6 +2,7 @@
 
 git clone https://github.com/GenisysPro/GenisysPro.git
 cp Doxyfile GenisysPro/Doxyfile
+cp README.md GenisysPro/README.md
 cd GenisysPro
 wget http://ftp.stack.nl/pub/users/dimitri/doxygen-1.8.13.linux.bin.tar.gz
 tar -xvf doxygen-1.8.13.linux.bin.tar.gz
