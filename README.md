@@ -13,4 +13,4 @@ The `master` branch of the repository stores Travis CI configuration file, build
 
 ## How can I access this documentation?
 Click [here](https://genisyspro.github.io/docs/index.html) to access the documentation from your browser.  
-If you are interested in source code of this documentation, you can have a look at it in the `gh-pages` branch. However, it is hard to see all the files, as there are too many of them!
+Click [here](https://github.com/GenisysPro/docs/tree/gh-pages) to access source code of the documentation.
