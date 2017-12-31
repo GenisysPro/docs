@@ -1,0 +1,27 @@
+var classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region =
+[
+    [ "close", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#aa69c8bf1f1dcf4e72552efff1fe3e87e", null ],
+    [ "doGarbageCollection", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#a9abefb08e0ea574f8765d510aab6a92e", null ],
+    [ "getChunk", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#a8e692ff4c1fa6b9244d5f7eee93c90cb", null ],
+    [ "getEmptyChunk", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#ab498836b0a88022430696eb97ccfdae6", null ],
+    [ "getGenerator", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#a1e98a96b414107bd324ff5cc4f6eb539", null ],
+    [ "getGeneratorOptions", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#aa4f0195f65aba2ef0e9e676ab2fe0852", null ],
+    [ "getLoadedChunks", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#a582e26cabc7bddb9052959ffbe145b02", null ],
+    [ "getRegion", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#a8b56c15289ee5496a9e17101ac762e3c", null ],
+    [ "getWorldHeight", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#abbf917dbe2cb2bccdd1e06934cf149a4", null ],
+    [ "isChunkGenerated", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#ab3ca8a39058fa26e7b8e9c6b3a1bdb07", null ],
+    [ "isChunkLoaded", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#a5c0ea114964103c549c8e67578ac7ec5", null ],
+    [ "isChunkPopulated", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#aed51272c48cc81d4c070c20b64e509ef", null ],
+    [ "loadChunk", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#a6d8917e230c2a756c684880292b81a48", null ],
+    [ "loadRegion", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#a192290e14c9e4270ee49869569b180c7", null ],
+    [ "nbtDeserialize", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#a0f1cb7fc039af914f55393d2e6506582", null ],
+    [ "nbtSerialize", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#a409b3f9b9b235ec53167e7b266e2ef32", null ],
+    [ "saveChunk", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#a538283531aa9461423173dea83cbb4e3", null ],
+    [ "saveChunks", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#a1d480f3f17e0db40ca4ad479024b585c", null ],
+    [ "setChunk", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#a039224a534f019a29e39087a04c4a4d7", null ],
+    [ "unloadChunk", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#a8e2b7040c998d0e3547d18243dd73b4e", null ],
+    [ "unloadChunks", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#a75c4b11007747a31d0b3a84ff2a13d6e", null ],
+    [ "$chunks", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#ab3d09cf34467ab6ea61c754414e2de70", null ],
+    [ "$regions", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#a270fcd32e1040253108d7d58d43c6dcf", null ],
+    [ "REGION_FILE_EXTENSION", "d8/db7/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_mc_region.html#ae3d0185891ebd7467c24f654e2d69622", null ]
+];

@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['valid',['valid',['../d7/d28/classpocketmine_1_1utils_1_1_block_iterator.html#abb9f0d6adf1eb9b3b55712056861a247',1,'pocketmine\utils\BlockIterator\valid()'],['../d2/de5/classpocketmine_1_1utils_1_1_vector_iterator.html#abb9f0d6adf1eb9b3b55712056861a247',1,'pocketmine\utils\VectorIterator\valid()'],['../d2/d4f/class_level_d_b_iterator.html#abb9f0d6adf1eb9b3b55712056861a247',1,'LevelDBIterator\valid()'],['../d6/d37/class_weak_ref.html#abb9f0d6adf1eb9b3b55712056861a247',1,'WeakRef\valid()'],['../d5/db9/class_weak_map.html#abb9f0d6adf1eb9b3b55712056861a247',1,'WeakMap\valid()']]],
+  ['value',['value',['../d5/d86/classpocketmine_1_1metadata_1_1_metadata_value.html#aefbfa229f1c9e1fc967bff724a010f9e',1,'pocketmine::metadata::MetadataValue']]],
+  ['vanillacommand',['VanillaCommand',['../d5/dfa/classpocketmine_1_1command_1_1defaults_1_1_vanilla_command.html',1,'pocketmine::command::defaults']]],
+  ['vector2',['Vector2',['../d7/d11/classpocketmine_1_1math_1_1_vector2.html',1,'pocketmine::math']]],
+  ['vector3',['Vector3',['../d2/d90/classpocketmine_1_1math_1_1_vector3.html',1,'pocketmine::math']]],
+  ['vectoriterator',['VectorIterator',['../d2/de5/classpocketmine_1_1utils_1_1_vector_iterator.html',1,'pocketmine::utils']]],
+  ['vectormath',['VectorMath',['../d1/db8/classpocketmine_1_1math_1_1_vector_math.html',1,'pocketmine::math']]],
+  ['vehicle',['Vehicle',['../d5/d00/classpocketmine_1_1entity_1_1_vehicle.html',1,'pocketmine::entity']]],
+  ['verifymanifest',['verifyManifest',['../d3/da4/classpocketmine_1_1resourcepacks_1_1_zipped_resource_pack.html#a52f5eb92d960800613352caf0561baaf',1,'pocketmine::resourcepacks::ZippedResourcePack']]],
+  ['version',['VERSION',['../df/dc5/classpocketmine_1_1level_1_1format_1_1io_1_1region_1_1_region_loader.html#af71005841ce53adac00581ab0ba24c1f',1,'pocketmine\level\format\io\region\RegionLoader\VERSION()'],['../d8/df8/classraklib_1_1_rak_lib.html#af71005841ce53adac00581ab0ba24c1f',1,'raklib\RakLib\VERSION()'],['../d2/d69/namespacepocketmine.html#af71005841ce53adac00581ab0ba24c1f',1,'pocketmine\VERSION()']]],
+  ['versioncommand',['VersionCommand',['../d1/d1c/classpocketmine_1_1command_1_1defaults_1_1_version_command.html',1,'pocketmine::command::defaults']]],
+  ['versionstring',['VersionString',['../df/d22/classpocketmine_1_1utils_1_1_version_string.html',1,'pocketmine::utils']]],
+  ['very_5fdamaged',['VERY_DAMAGED',['../df/d58/classpocketmine_1_1block_1_1_anvil.html#a548205e598ffb8480f80f9260325df28',1,'pocketmine::block::Anvil']]],
+  ['vex',['Vex',['../dd/dda/classpocketmine_1_1entity_1_1_vex.html',1,'pocketmine::entity']]],
+  ['view',['VIEW',['../df/d2c/classpocketmine_1_1_player.html#aef7c7a92cfbdbb6c095d208691c9d872',1,'pocketmine::Player']]],
+  ['villager',['Villager',['../d9/d6b/classpocketmine_1_1entity_1_1_villager.html',1,'pocketmine::entity']]],
+  ['vindicator',['Vindicator',['../d2/d5a/classpocketmine_1_1entity_1_1_vindicator.html',1,'pocketmine::entity']]],
+  ['vine',['Vine',['../d1/de5/classpocketmine_1_1block_1_1_vine.html',1,'Vine'],['../d0/d04/interfacepocketmine_1_1block_1_1_block_ids.html#a5fe1457d240533bcf50af19a2beb6d5d',1,'pocketmine\block\BlockIds\VINE()']]],
+  ['vines',['VINES',['../d0/d04/interfacepocketmine_1_1block_1_1_block_ids.html#a996b04f3449d8c440d7c7b5039bda123',1,'pocketmine::block::BlockIds']]],
+  ['void',['VOID',['../d6/d2e/classpocketmine_1_1level_1_1generator_1_1biome_1_1_biome.html#a2e4bde0ba8e9e002f500e99fdc97c6a4',1,'pocketmine::level::generator::biome::Biome']]],
+  ['voidgenerator',['VoidGenerator',['../d8/d89/classpocketmine_1_1level_1_1generator_1_1_void_generator.html',1,'pocketmine::level::generator']]],
+  ['volatile',['Volatile',['../db/d53/class_volatile.html',1,'']]]
+];
